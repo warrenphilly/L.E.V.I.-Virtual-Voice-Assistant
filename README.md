@@ -1,7 +1,7 @@
-# AI Speech Assistant "LEVI"
+# AI Speech Assistant "L.E.V.I."
 
 ## Overview
-LEVI (Logic Empowered Visionary Interface) is a Python application functioning as an AI-powered speech assistant. It integrates speech recognition and text-to-speech capabilities, communicating with OpenAI's GPT-4 model. The assistant has a sassy personality, humorously referring to the user as "boss" while playfully considering them less intelligent.
+L.E.V.I. (Logic Empowered Visionary Interface) is a Python application functioning as an AI-powered speech assistant. It integrates speech recognition and text-to-speech capabilities, communicating with OpenAI's GPT-4 model. The assistant has a sassy personality, humorously referring to the user as "boss" while playfully considering them less intelligent.
 
 ## Features
 - **Speech Recognition**: Captures spoken words via a microphone and converts them to text.
